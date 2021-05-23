@@ -1,0 +1,10 @@
+AbreviandoPostsDoBlog.java
+ AbreviandoPostsDoBlog
+ValidadorDeSenhaComRequisitos.java
+ ValidadorDeSenhaComRequisitos
+EncontreMaiorSubString.java
+ EncontreMaiorSubString
+ConjuntosBonsOuRuins.java
+ ConjuntosBonsOuRuins
+EntrevistaEmbaracosa.java
+ EntrevistaEmbaracosa
